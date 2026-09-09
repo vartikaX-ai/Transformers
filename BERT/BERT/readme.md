@@ -100,7 +100,7 @@ The model achieved balanced performance across both sentiment classes, with an F
 BERT/
 │
 ├── BERT_Project/
-│   └── bert_sentiment_analysis.ipynb
+│   └── BERT.ipynb
 │
 └── README.md
 ```
